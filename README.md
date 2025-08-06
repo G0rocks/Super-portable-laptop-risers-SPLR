@@ -3,6 +3,8 @@ Super portable 3D printed laptop risers so you can lift up the back of your lapt
 
 Designed for personal use and remixing — see license details below for commercial terms.
 
+![v2 0 0 image](https://github.com/user-attachments/assets/89523db8-b52a-462d-932d-5c653f84966b)
+
 ## 🧩 What's Included
 
 - 3D models designed in Freecad
