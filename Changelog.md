@@ -1,3 +1,31 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [Unreleased]
+
+### Added
+
+-
+
+### Changed
+
+- 
+
+### Removed
+
+- 
+
+## [2.0.1] - 2025-08-06
+### Changed
+- Hole dimension to 5.01mm diameter so it no longer fits 6mm magnets. Done for easier use with strings and since 5mm magnets also exist.
+- Made indents on sides more symmetrical and a little wider to accomodate string/hairtie easier
+- Changelog now follows keepachangelog.com format
+
+
+## Older notes and changes (warning: In Icelandic)
 2025-08-06 Huldar: Um V2.
 Þetta eru núna tvö stykki en það er hægt að binda þau saman því það er gat í gegnum þau eða (hef ekki prófað) hægt að
 troða 6mm þvermáls segli í bæði stykkin svo þau ættu að seglast saman þegar þú geymir þau.
