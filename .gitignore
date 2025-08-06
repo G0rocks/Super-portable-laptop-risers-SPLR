@@ -3,3 +3,6 @@
 *.bak
 *.FCBak
 *.tmp
+
+# Blender files
+*.blend
