@@ -19,7 +19,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 
 
 ## [2.0.1] - 2025-08-06
+
+### Added
+
+- .stl file so people can now easily slice and 3D print the model and use the model within other programs other than freecad
+
 ### Changed
+
 - Hole dimension to 5.01mm diameter so it no longer fits 6mm magnets. Done for easier use with strings and since 5mm magnets also exist.
 - Made indents on sides more symmetrical and a little wider to accomodate string/hairtie easier
 - Changelog now follows keepachangelog.com format
